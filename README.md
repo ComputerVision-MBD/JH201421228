@@ -4,7 +4,7 @@ Git을 처음 설치했다면 아래 명령어를 한 번만 입력하세요.
 
 ```bash
 git config --global user.name "본인이름"
-git config --global user.email "본인이깃허브이메일"
+git config --global user.email "본인의깃허브이메일"
 ```
 
 ```
